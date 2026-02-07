@@ -33,7 +33,7 @@ Professional one-page portfolio website showcasing 9+ years of experience in Dat
 3. Click **"Save"**
 
 ### ✅ Done! Your site is live at:
-**https://muzamilhussain512.github.io**
+**https://muzamilhussain.github.io**
 
 ---
 
