@@ -1,61 +1,147 @@
-# [Your Name] - Data Analysis Portfolio
+# Muzamil Hussain - Data Analyst Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Professional one-page portfolio website showcasing 9+ years of experience in Data Science, Analytics & Automation.
 
-## About This Portfolio Template
+## 🚀 Quick Deployment (5 Minutes)
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+### Step 1: Create GitHub Repository
 
-## 🚀 Projects
+1. Go to [GitHub.com](https://github.com) and sign in
+2. Click **"+"** → **"New repository"**
+3. **Repository name:** `muzamilhussain512.github.io` (use YOUR username)
+4. Set to **Public**
+5. Click **"Create repository"**
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+### Step 2: Create Folder Structure
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+1. In your repository, click **"Add file"** → **"Create new file"**
+2. Type: `assets/.gitkeep`
+3. Click **"Commit new file"**
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+### Step 3: Upload Files
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+1. Click **"Add file"** → **"Upload files"**
+2. Upload these files:
+   - **To root folder:** `index.html`
+   - **To assets folder:** Navigate to `assets/` → Upload `Muzamil_Hussain_Resume.pdf`
+3. Click **"Commit changes"**
 
+### Step 4: Enable GitHub Pages
 
-## 🛠️ Skills
+1. Go to **Settings** → **Pages**
+2. Source: **main** branch, **/ (root)** folder
+3. Click **"Save"**
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
+### ✅ Done! Your site is live at:
+**https://muzamilhussain512.github.io**
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+---
 
-## 💡 How to Use This Template
+## 📁 File Structure
 
-Creating your own portfolio from this template is a simple, four-step process.
+```
+muzamilhussain512.github.io/
+├── index.html                          ← Upload this to root
+└── assets/
+    └── Muzamil_Hussain_Resume.pdf     ← Upload this to assets folder
+```
 
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
+---
 
-### 2. Name Your Repository for GitHub Pages
-This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
-*(Replace `your-username` with your actual GitHub username.)*
+## 📥 How the Resume Download Works
 
-### 3. Customize Your Portfolio
-Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
-- Your name and title
-- Social media links
-- The "About Me" section
-- Your project titles, descriptions, and links
-- Your list of skills
+The portfolio has **TWO** download buttons:
 
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
+1. **Hero Section** (top of page):
+   - White outline button: "Download Resume"
+   
+2. **Contact Section** (bottom of page):
+   - Fifth contact option with download icon
 
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
+Both link to: `assets/Muzamil_Hussain_Resume.pdf`
+
+### To Update Your Resume:
+
+1. Go to your repository → `assets` folder
+2. Delete old `Muzamil_Hussain_Resume.pdf`
+3. Upload new resume **with exact same filename**
+4. Changes appear in 30 seconds
+
+---
+
+## 🎨 Easy Customization
+
+### Change Colors
+
+Edit line 30 in `index.html`:
+
+```css
+--primary: #2563eb;        /* Change main blue */
+--accent: #10b981;         /* Change green accent */
+```
+
+### Update Contact Info
+
+Search and replace in `index.html`:
+- Email: `muzamilhussain893@gmail.com`
+- Phone: `+92-332-9514-090`
+- LinkedIn: `muzamil-hussain-data-scientist`
+- GitHub: `muzamilhussain512`
+
+---
+
+## 🔧 Troubleshooting
+
+### Resume Download Shows 404
+
+✅ **Fix:**
+1. Check file is in `assets/Muzamil_Hussain_Resume.pdf`
+2. Filename is **case-sensitive**
+3. Wait 1-2 minutes after upload
+
+### Portfolio Not Loading
+
+✅ **Fix:**
+1. Repository must be named: `username.github.io`
+2. `index.html` must be in root (not subfolder)
+3. Repository must be **Public**
+4. Wait 1-2 minutes for first deployment
+
+---
+
+## 📱 Features
+
+✅ Download Resume button (2 locations)  
+✅ Fully responsive design  
+✅ One-page scrolling  
+✅ Social media links  
+✅ Professional sections  
+✅ Interactive animations  
+✅ Mobile-friendly navigation  
+
+---
+
+## 📞 Contact
+
+**Muzamil Hussain**  
+📧 muzamilhussain893@gmail.com  
+📱 +92-332-9514-090  
+💼 [LinkedIn](https://linkedin.com/in/muzamil-hussain-data-scientist/)  
+🐙 [GitHub](https://github.com/muzamilhussain512)
+
+---
+
+## 🎯 Next Steps
+
+1. ✅ Deploy portfolio
+2. ✅ Test resume download
+3. ✅ Share URL on LinkedIn
+4. ✅ Add to email signature
+5. ✅ Include in resume
+6. ✅ Update monthly
+
+**Live URL:** https://muzamilhussain512.github.io
+
+---
+
+© 2026 Muzamil Hussain | I am hopeful; the future is bright.
