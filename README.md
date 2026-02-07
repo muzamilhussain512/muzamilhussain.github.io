@@ -8,7 +8,7 @@ Professional one-page portfolio website showcasing 9+ years of experience in Dat
 
 1. Go to [GitHub.com](https://github.com) and sign in
 2. Click **"+"** → **"New repository"**
-3. **Repository name:** `muzamilhussain512.github.io` (use YOUR username)
+3. **Repository name:** `muzamilhussain.github.io` (use YOUR username)
 4. Set to **Public**
 5. Click **"Create repository"**
 
@@ -40,7 +40,7 @@ Professional one-page portfolio website showcasing 9+ years of experience in Dat
 ## 📁 File Structure
 
 ```
-muzamilhussain512.github.io/
+muzamilhussain.github.io/
 ├── index.html                          ← Upload this to root
 └── assets/
     └── Muzamil_Hussain_Resume.pdf     ← Upload this to assets folder
@@ -140,7 +140,7 @@ Search and replace in `index.html`:
 5. ✅ Include in resume
 6. ✅ Update monthly
 
-**Live URL:** https://muzamilhussain512.github.io
+**Live URL:** https://muzamilhussain.github.io
 
 ---
 
